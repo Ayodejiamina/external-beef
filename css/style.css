@@ -1,0 +1,38 @@
+.con1{
+    list-style-type: none;
+    background-color: red;
+  overflow:hidden;
+}
+.con1 li {
+    float: left;
+    padding: 5px 20px 5px 150px;
+}
+.con1 li a{
+    text-decoration: none;
+}
+img{
+    float: left;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color: green;
+
+}
+a:visited{
+    color:blue;
+}
+a:hover{
+    color:burlywood;
+}
+a:active{
+    color:brown;
+}
+
+.group{
+    clear: both;
+}
+p{
+    padding-right: 20px;
+}
